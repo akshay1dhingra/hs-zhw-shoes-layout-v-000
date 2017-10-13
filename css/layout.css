@@ -9,7 +9,10 @@
   -moz-box-sizing: border-box;
 }
 
-
+.row {
+  clear: both;
+  margin-bottom: 2%;
+}
 
 .row:after {
   content: ".";
