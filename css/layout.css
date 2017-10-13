@@ -31,6 +31,10 @@
   margin-left: 2%;
 }
 
+[class*="col-"]:first-child {
+  margin-left: 0;
+}
+
 .col-3 {
   width: 32%;
 }
