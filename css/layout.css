@@ -14,7 +14,7 @@
   margin-bottom: 2%;
 }
 
-.clearfix:after {
+.row:after {
   content: ".";
   display: block;
   clear: both;
