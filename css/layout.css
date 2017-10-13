@@ -28,6 +28,7 @@
 
 [class*="col-"] {
   float: left;
+  margin-left: 2%;
 }
 
 .col-3 {
